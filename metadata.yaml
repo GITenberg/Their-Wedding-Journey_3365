@@ -1,0 +1,37 @@
+_repo: Their-Wedding-Journey_3365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2004-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Description and travel -- Fiction'
+- !lcsh 'Canada -- Description and travel -- Fiction'
+- !lcsh 'Honeymoons -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Their Wedding Journey
+url: http://www.gutenberg.org/ebooks/3365
