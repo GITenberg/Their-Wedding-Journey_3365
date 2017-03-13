@@ -1,5 +1,8 @@
 _repo: Their-Wedding-Journey_3365
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -19,6 +22,8 @@ description: The Shelf2Life Literature and Fiction Collection is a unique set of
   and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
   provides readers with an opportunity to enjoy and study these iconic literary works,
   many of which were written during a period of remarkable creativity.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3365#Their-Wedding-Journey
 gutenberg_issued: '2004-10-23'
 gutenberg_type: Text
 identifiers:
